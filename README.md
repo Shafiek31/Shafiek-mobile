@@ -1,2 +1,1 @@
-# Shafiek-mobile
-mobile
+# Shafiek mobile
